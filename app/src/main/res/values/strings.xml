@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">vistasGruposDeVistas</string>
+    <string-array name="spinner_values">
+        <item>Choose a Layout</item>
+        <item>LinearLayout</item>
+        <item>RelativeLayout</item>
+        <item>FrameLayout</item>
+        <item>TableLayout</item>
+        <item>AbsoluteLayout</item>
+        <item>GridLayout</item>
+    </string-array>
+</resources>
